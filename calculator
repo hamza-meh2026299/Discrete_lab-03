@@ -4,3 +4,15 @@ int c = 23;
 int d = 12;
 int result = c-d;
 console.writeline(result);
+int e = 32;
+int f = 11;
+int result = e*f;
+console.writeline(result);
+int h =8;
+int m =18;
+int result = h/m;
+
+
+
+
+
