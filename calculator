@@ -1,6 +1,11 @@
 console.WriteLine("my name is : khair muhammad hamza");
 console.writeline("roll number : 24-ST-047");
+int e = 32;
+int f = 11;
+int result = e*f;
+console.writeline(result);
 int h =8;
 int m =18;
 int result = h/m;
-console.writeline(result);
+
+
