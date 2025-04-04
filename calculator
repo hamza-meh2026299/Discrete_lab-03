@@ -1,2 +1,6 @@
 console.WriteLine("my name is : khair muhammad hamza");
 console.writeline("roll number : 24-ST-047");
+int c = 23;
+int d = 12;
+int result = c-d;
+console.writeline(result);
